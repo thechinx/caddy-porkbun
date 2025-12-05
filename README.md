@@ -1,4 +1,4 @@
-<h2> Caddy Porkbin DNS </h2>
+<h2> Caddy Porkbun DNS </h2>
 Contains the following useful plugins for Caddy reverse-proxy.<br><br>
 <a href="https://github.com/caddy-dns/porkbun">Porkbun DNS module for Caddy</a><br>
 <a href="https://github.com/gsmlg-dev/caddy-admin-ui">Caddy-admin-ui</a><br>
