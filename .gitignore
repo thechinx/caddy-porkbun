@@ -1,2 +1,3 @@
 Dockerfile.bak
-./github/workflows/docker-daily-build.yml.bak
+*.bak
+.github/workflows/*.bak
