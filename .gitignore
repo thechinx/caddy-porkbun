@@ -1,3 +1,4 @@
 Dockerfile.bak
+gitupdate.sh
 *.bak
 .github/workflows/*.bak
