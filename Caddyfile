@@ -1,8 +1,9 @@
-example.com {
-    reverse_proxy 192.168.254.101:8030
-
-    tls {
-        dns cloudflare {env.CLOUDFLARE_API_TOKEN}
-    }
+tls {
+	dns porkbun {
+			api_key {env.PORKBUN_API_KEY}
+			api_secret_key {env.PORKBUN_API_SECRET_KEY}
+	}
 }
+
+
 
